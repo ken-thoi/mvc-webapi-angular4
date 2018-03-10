@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\bin\Debug\WebApiDatabase.dacpac
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\bin\Debug\WebApiDatabase.dll
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\bin\Debug\WebApiDatabase.pdb
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\obj\Debug\Model.xml
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\obj\Debug\refactor.xml
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\obj\Debug\postdeploy.sql
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\obj\Debug\predeploy.sql
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\obj\Debug\WebApiDatabase.dll
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\obj\Debug\WebApiDatabase.pdb
+C:\Users\Administrator\Desktop\git-repos\mvc-webapi-angular4\WebApi\WebApiDatabase\obj\Debug\WebApiDatabase.sqlprojResolveAssemblyReference.cache

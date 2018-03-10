@@ -1,0 +1,14 @@
+﻿https://github.com/angular/angular-cli
+
+Setup một dự án mới bằng Angular-CLI
+1. Setup nodejs
+    run [npm install -g] or [npm install]
+2. Angular-CLI được viết bằng nodejs nên nó yêu cầu máy của bạn cài Node và npm
+    run [npm install -g @angular/cli] or [npm install -g angular-cli]
+3. Tạo project mới
+    run [ng new {project-name}]
+4. Move folder new project
+    run [cd {project-name}]
+5. Chạy dự án dưới dev mode.
+    run [ng serve --open]
+6. localhost:4200
