@@ -1,14 +1,53 @@
 ﻿https://github.com/angular/angular-cli
 
-Setup một dự án mới bằng Angular-CLI
-1. Setup nodejs
-    run [npm install -g] or [npm install]
-2. Angular-CLI được viết bằng nodejs nên nó yêu cầu máy của bạn cài Node và npm
-    run [npm install -g @angular/cli] or [npm install -g angular-cli]
-3. Tạo project mới
-    run [ng new {project-name}]
+1. Install NPM, nodejs
+    	npm install -g
+	npm install
+	npm install npm -g
+2. Install angular-cli using NPM
+	npm install -g @angular/cli
+	npm install -g angular-cli
+3. Create new Project
+    ng new {project-name}
 4. Move folder new project
     run [cd {project-name}]
 5. Chạy dự án dưới dev mode.
     run [ng serve --open]
 6. localhost:4200
+
+__________________________________
+As you are creating your application, check out some of our other blog posts on getting started with Angular 2. If you’re interested in learning about the other things that were installed, here are a few links for further reading.
+
+angular-cli.json – A configuration file for the angular command line interface.
+
+karma.conf.js – A configuration script for the Karma testing framework. You can use Karma to run your *.spec.ts files on multiple browsers.
+
+package.json – Your project information that NPM uses. This can be used to add new libraries that you can use in your project.
+
+protractor.conf.js – A configuration file for the Protractor end-to-end testing framework. End-to-end testing allows you to test your app by mimicking a user interacting with it. You’ll use this with your tests found in the e2e directory.
+
+README.md – A place to describe your project.
+
+tslint.json – A configuration file for tslint.
+
+src – favicon.ico – The icon that will show in the browser tab.
+
+src – index.html – The html file that the browser will load. In this file you’ll see the `app-root` tag, which is where your bootstrapped Angular 2 application will load.
+
+src – main.ts – The file that bootstraps your Angular 2 application.
+
+src – polyfills.ts – This loads some code that Angular 2 needs to run on all browsers.
+
+src – styles.css – You can use this for global styles.
+
+src – test.ts – A test file for running Karma tests.
+
+src – tsconfig.json – A configuration file for the typescript compiler.
+
+src – typings.d.ts – A configuration file for Typings. Typings is a useful tool for adding javascript libraries to your typescript project.
+
+src – app – Your actual Angular 2 application source!
+
+src – assets – A place for you to put assets such as photos.
+
+src – environments – Environments configuration files used by angular-cli.
